@@ -19,7 +19,7 @@ async def start(bot: Client, msg: Message):
 𝖥𝖴𝖫𝖫𝖸 𝖲𝖠𝖥𝖤 & 𝖲𝖤𝖢𝖴𝖱𝖤.
 𝖭𝖮  𝖤𝖱𝖱𝖮𝖱.
 
-𝖬𝐚𝐝𝐞 𝖡𝐲  : [𝖳𝖤𝖠𝖬 𝖣𝖠𝖷𝖷](tg://user?id={OWNER_ID}) !""",
+𝖬𝐚𝐝𝐞 𝖡𝐲  : [PIYUSH](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
